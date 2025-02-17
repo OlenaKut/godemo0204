@@ -1,9 +1,11 @@
 package main
 
 import (
-	//"systementor.se/godemo0409/loops"
-	"systementor.se/godemo0409/week2/arrays"
+	"systementor.se/godemo0409/week2/funcs"
+	//"systementor.se/godemo0409/week2/strings"
 )
+
+//"systementor.se/godemo0409/loops"
 
 //"fmt"
 //"strings"
@@ -32,5 +34,8 @@ func main() {
 	//week2.Ifs5()
 	//week2.Ifs8()
 	//loops.Loops6()
-	arrays.Arr1()
+	//arrays.Map1()
+	//strings.String6()
+	//funcs.Plus()
+	funcs.Tax()
 }
